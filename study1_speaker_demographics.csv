@@ -1,0 +1,57 @@
+speaker_id,speaker_gender,speaker_race_ethnicity,parent1_education,parent2_education,speaker_Extraversion,speaker_Agreeableness,speaker_Conscientiousness,speaker_Neuroticism,speaker_Openness,speaker_dispositional_receptiveness
+2DFMG5,Man,White,Doctoral degree,Doctoral degree,2.5,4,4,4,3.5,5.833333333333333
+2XV9R3,Woman,"Asian (Central, East, Southeast, South)",Master's degree,Master's degree,3,4,4,3,5,3.9444444444444446
+362QB5,Woman,White,Master's degree,Master's degree,4,5,4.5,3,3.5,3.8333333333333335
+4M5CW9,Woman,Hispanic or Latinx,N/A or unknown,N/A or unknown,2.5,3,3,4.5,3,4.333333333333333
+5HZW2S,Man,Hispanic or Latinx,High school,N/A or unknown,2.5,4,3.5,3.5,3,5.611111111111111
+5NHF3C,Woman,White,Bachelor's degree / 4-year college,Master's degree,5,4.5,3,1.5,3.5,4.555555555555555
+5VZFPB,Man,Hispanic or Latinx,N/A or unknown,N/A or unknown,1.5,2.5,3,4.5,3,3.9444444444444446
+75RKXP,Woman,White,Doctoral degree,Doctoral degree,2,3.5,3.5,4,4.5,4.277777777777778
+79FVTG,Woman,"Hispanic or Latinx,White",,Bachelor's degree / 4-year college,4,3.5,2.5,4,4,3.2222222222222223
+7TH9AL,Woman,"Asian (Central, East, Southeast, South)",Bachelor's degree / 4-year college,Bachelor's degree / 4-year college,3.5,3.5,5,2,5,4.611111111111111
+8GVXNG,Woman,White,Bachelor's degree / 4-year college,Bachelor's degree / 4-year college,4.5,2.5,4,2,4,3.888888888888889
+8UHRJZ,Woman,"Hispanic or Latinx,White",Master's degree,Master's degree,4,2.5,2.5,5,1,3
+9M4R9F,Non-binary,"Asian (Central, East, Southeast, South)",N/A or unknown,N/A or unknown,3,3,2,3,4,4.055555555555555
+9R4JMQ,Woman,"Asian (Central, East, Southeast, South)",High school,High school,3,2,5,4,3.5,4.277777777777778
+AH4N2E,Man,White,Master's degree,Professional degree beyond bachelor's degree,2,2.5,3.5,4.5,4,3.6666666666666665
+ANYN5N,Woman,"Hispanic or Latinx,White",Master's degree,Master's degree,2.5,4.5,5,4,3,4.388888888888889
+ASU387,Man,White,Professional degree beyond bachelor's degree,Professional degree beyond bachelor's degree,2,1,3.5,4,2.5,3.6666666666666665
+BJJDCU,Woman,White,Bachelor's degree / 4-year college,Master's degree,3.5,4.5,4,4.5,4,3.4444444444444446
+BP8MWN,Man,"Asian (Central, East, Southeast, South)",Master's degree,Master's degree,1.5,3,3,3.5,3,4.222222222222222
+CVB4FV,Woman,"Black or African-American,Hispanic or Latinx",Doctoral degree,High school,3.5,4.5,5,3.5,3.5,3.2222222222222223
+CVUKN6,Man,White,Professional degree beyond bachelor's degree,Doctoral degree,2.5,3,4.5,1.5,4,3.7222222222222223
+DFA99M,Non-binary,White,Master's degree,N/A or unknown,3,3,3,4.5,5,4.166666666666667
+DLXXGP,Man,"Asian (Central, East, Southeast, South)",Doctoral degree,Master's degree,4.5,4.5,3.5,2,5,4.166666666666667
+F4JZ62,Woman,Middle Eastern or North African,Professional degree beyond bachelor's degree,Bachelor's degree / 4-year college,3,3,5,2,4,4
+F96H6T,Man,"Asian (Central, East, Southeast, South)",Master's degree,Bachelor's degree / 4-year college,2.5,5,2.5,3.5,4.5,5
+FPXEVV,Man,"Asian (Central, East, Southeast, South),White,Biracial, multiracial, or mixed race",Professional degree beyond bachelor's degree,Professional degree beyond bachelor's degree,2,4.5,4,4.5,3,4
+G46RFM,Man,White,Doctoral degree,Doctoral degree,2.5,3.5,4,4.5,4.5,3.2777777777777777
+GJZ3DG,Woman,Black or African-American,Master's degree,Master's degree,4.5,4,3.5,4.5,4.5,4.222222222222222
+GQVTAY,Man,"Asian (Central, East, Southeast, South)",Master's degree,Master's degree,3.5,4,4,3.5,2.5,4.055555555555555
+GQZPPL,Woman,"Hispanic or Latinx,White",Professional degree beyond bachelor's degree,Professional degree beyond bachelor's degree,2.5,2,5,3.5,5,3.0555555555555554
+HJVQGN,Woman,Black or African-American,High school,High school,3,3.5,4,5,5,3.1666666666666665
+HU9B49,Man,"Hispanic or Latinx,White",Associate's degree / 2-year college,Bachelor's degree / 4-year college,4,3.5,2.5,1.5,4,4.666666666666667
+JLCAY3,Woman,"Hispanic or Latinx,White,Biracial, multiracial, or mixed race",Master's degree,Bachelor's degree / 4-year college,3,4,4.5,4,4,4.666666666666667
+JR8N73,Woman,"Middle Eastern or North African,White",Doctoral degree,Master's degree,2,3,4,4.5,4,5
+L3Z63E,Man,"Middle Eastern or North African,White",N/A or unknown,N/A or unknown,4,3,5,4,3,4.5
+LCEAJ7,Man,White,Doctoral degree,Doctoral degree,4.5,4,5,3.5,3,3.2222222222222223
+M3BCKG,Woman,White,Doctoral degree,Master's degree,2.5,3,4,4.5,5,4.111111111111111
+MQFGUA,Woman,Hispanic or Latinx,N/A or unknown,N/A or unknown,2.5,4.5,5,3.5,3.5,4.333333333333333
+NPEK3R,Man,Black or African-American,Master's degree,N/A or unknown,2.5,3,2.5,3.5,3,2.888888888888889
+NPMF9M,Woman,"Asian (Central, East, Southeast, South),Black or African-American,White,Biracial, multiracial, or mixed race",Professional degree beyond bachelor's degree,Professional degree beyond bachelor's degree,1.5,4,4.5,4.5,5,3.7222222222222223
+NXYBWB,Man,"Asian (Central, East, Southeast, South)",Doctoral degree,Bachelor's degree / 4-year college,3,3.5,4,1.5,1.5,6.055555555555555
+PA9N7U,Woman,Black or African-American,Doctoral degree,Bachelor's degree / 4-year college,2,3.5,3.5,2.5,3,4
+PAKECS,Woman,"Black or African-American,Hispanic or Latinx",Master's degree,Bachelor's degree / 4-year college,3.5,4,3,3,4,3.888888888888889
+QGL7HY,Man,"Hispanic or Latinx,White,Other/Prefer to specify:",N/A or unknown,High school,2.5,3.5,4.5,2,3.5,4.388888888888889
+RCUQV8,Woman,"Asian (Central, East, Southeast, South)",Doctoral degree,Doctoral degree,4,3,3,2.5,5,4.111111111111111
+RDKB6C,Woman,Hispanic or Latinx,High school,High school,2,4.5,3.5,3,5,3.6666666666666665
+SER453,Woman,Hispanic or Latinx,High school,Associate's degree / 2-year college,2,3,4.5,3,4.5,3.2222222222222223
+TH7TUS,Woman,White,Bachelor's degree / 4-year college,Bachelor's degree / 4-year college,3,4,4,4,2,3.0555555555555554
+TWDMAY,Woman,"Asian (Central, East, Southeast, South)",Doctoral degree,Master's degree,1.5,3.5,2,2,2,4.666666666666667
+VSZX48,Woman,Hispanic or Latinx,High school,N/A or unknown,3.5,5,4,4,5,5.277777777777778
+WX86H9,Man,"Asian (Central, East, Southeast, South)",Master's degree,Master's degree,1,2.5,4.5,3,3,3.5555555555555554
+X3SEW3,Woman,"Biracial, multiracial, or mixed race",Master's degree,Doctoral degree,2,3,2.5,4,3,3.7222222222222223
+X8DPXC,Man,"Asian (Central, East, Southeast, South),White",Bachelor's degree / 4-year college,Bachelor's degree / 4-year college,3.5,3,4,2.5,5,3.111111111111111
+XQYHBD,Woman,"Hispanic or Latinx,White",Master's degree,Bachelor's degree / 4-year college,3,3,3,2,2,3.9444444444444446
+Y392M9,Woman,White,Master's degree,Bachelor's degree / 4-year college,3,4,4,4,4,4.111111111111111
+Z5S4G6,Man,Black or African-American,Professional degree beyond bachelor's degree,Doctoral degree,2.5,4.5,3.5,3.5,3.5,3

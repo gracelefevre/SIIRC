@@ -1,0 +1,464 @@
+item_id,speaker_id,question_id,question_label,speaker_rating_primary,speaker_rating_secondary,speaker_evaluation,speaker_evaluation_clean
+2DFMG5_1,2DFMG5,1,cats_dogs,78,60,I choose cats,cats
+2DFMG5_2,2DFMG5,2,pineapple_pizza,28,8,I do not like pineapple on pizza,dislikes
+2DFMG5_3,2DFMG5,3,hotdog_sandwich,3,0,A hot dog is a sandwich,yes
+2DFMG5_4,2DFMG5,4,coke_pepsi,3,1,I choose Coke,Coke
+2DFMG5_5,2DFMG5,5,bluecheese,62,53,I like blue cheese,likes
+2DFMG5_6,2DFMG5,6,water_wet,88,76,Water is not wet,no
+2DFMG5_7,2DFMG5,7,autumn_spring,89,97,I choose spring,spring
+2DFMG5_8,2DFMG5,8,spicyfood,40,37,I like spicy food,likes
+2DFMG5_9,2DFMG5,9,coffeeshop,64,56,Cupitol,Cupitol
+2XV9R3_1,2XV9R3,1,cats_dogs,80,63,I choose dogs,dogs
+2XV9R3_2,2XV9R3,2,pineapple_pizza,91,77,I like pineapple on pizza,likes
+2XV9R3_3,2XV9R3,3,hotdog_sandwich,60,61,A hot dog is a sandwich,yes
+2XV9R3_4,2XV9R3,4,coke_pepsi,27,30,I choose Pepsi,Pepsi
+2XV9R3_5,2XV9R3,5,bluecheese,92,78,I do not like blue cheese,dislikes
+2XV9R3_6,2XV9R3,6,water_wet,87,73,Water is not wet,no
+2XV9R3_7,2XV9R3,7,autumn_spring,92,89,I choose spring,spring
+2XV9R3_8,2XV9R3,8,spicyfood,91,91,I do not like spicy food,dislikes
+2XV9R3_9,2XV9R3,9,coffeeshop,93,92,Philz Coffee,other
+362QB5_1,362QB5,1,cats_dogs,94,69,I choose dogs,dogs
+362QB5_2,362QB5,2,pineapple_pizza,58,59,I like pineapple on pizza,likes
+362QB5_3,362QB5,3,hotdog_sandwich,62,60,A hot dog is not a sandwich,no
+362QB5_4,362QB5,4,coke_pepsi,50,50,I choose Coke,Coke
+362QB5_5,362QB5,5,bluecheese,92,81,I do not like blue cheese,dislikes
+362QB5_6,362QB5,6,water_wet,82,77,Water is wet,yes
+362QB5_7,362QB5,7,autumn_spring,83,83,I choose autumn,autumn
+362QB5_8,362QB5,8,spicyfood,71,71,I like spicy food,likes
+362QB5_9,362QB5,9,coffeeshop,67,72,Cupitol,Cupitol
+4M5CW9_1,4M5CW9,1,cats_dogs,79,72,I choose cats,cats
+4M5CW9_2,4M5CW9,2,pineapple_pizza,87,84,I like pineapple on pizza,likes
+4M5CW9_3,4M5CW9,3,hotdog_sandwich,69,73,A hot dog is not a sandwich,no
+4M5CW9_4,4M5CW9,4,coke_pepsi,83,72,I choose Pepsi,Pepsi
+4M5CW9_5,4M5CW9,5,bluecheese,95,87,I do not like blue cheese,dislikes
+4M5CW9_6,4M5CW9,6,water_wet,35,33,Water is not wet,no
+4M5CW9_7,4M5CW9,7,autumn_spring,74,67,I choose autumn,autumn
+4M5CW9_8,4M5CW9,8,spicyfood,81,73,I do not like spicy food,dislikes
+4M5CW9_9,4M5CW9,9,coffeeshop,76,71,Peet's,Peets
+5HZW2S_1,5HZW2S,1,cats_dogs,49,50,I choose cats,cats
+5HZW2S_2,5HZW2S,2,pineapple_pizza,93,50,I do not like pineapple on pizza,dislikes
+5HZW2S_3,5HZW2S,3,hotdog_sandwich,50,50,A hot dog is a sandwich,yes
+5HZW2S_4,5HZW2S,4,coke_pepsi,8,9,I choose Coke,Coke
+5HZW2S_6,5HZW2S,6,water_wet,50,50,Water is not wet,no
+5HZW2S_7,5HZW2S,7,autumn_spring,50,50,I choose autumn,autumn
+5HZW2S_8,5HZW2S,8,spicyfood,50,50,I like spicy food,likes
+5HZW2S_9,5HZW2S,9,coffeeshop,38,41,Collectivo,Colectivo
+5NHF3C_1,5NHF3C,1,cats_dogs,94,66,I choose dogs,dogs
+5NHF3C_2,5NHF3C,2,pineapple_pizza,93,55,I like pineapple on pizza,likes
+5NHF3C_3,5NHF3C,3,hotdog_sandwich,61,31,A hot dog is a sandwich,yes
+5NHF3C_4,5NHF3C,4,coke_pepsi,82,74,I choose Coke,Coke
+5NHF3C_5,5NHF3C,5,bluecheese,62,27,I do not like blue cheese,dislikes
+5NHF3C_6,5NHF3C,6,water_wet,78,68,Water is wet,yes
+5NHF3C_7,5NHF3C,7,autumn_spring,76,62,I choose autumn,autumn
+5NHF3C_8,5NHF3C,8,spicyfood,75,61,I like spicy food,likes
+5NHF3C_9,5NHF3C,9,coffeeshop,87,84,Collectivo,Colectivo
+5VZFPB_1,5VZFPB,1,cats_dogs,84,68,I choose cats,cats
+5VZFPB_3,5VZFPB,3,hotdog_sandwich,97,82,A hot dog is not a sandwich,no
+5VZFPB_4,5VZFPB,4,coke_pepsi,91,86,I choose Coke,Coke
+5VZFPB_5,5VZFPB,5,bluecheese,95,85,I do not like blue cheese,dislikes
+5VZFPB_6,5VZFPB,6,water_wet,80,59,Water is not wet,no
+5VZFPB_7,5VZFPB,7,autumn_spring,95,90,I choose autumn,autumn
+5VZFPB_8,5VZFPB,8,spicyfood,95,91,I like spicy food,likes
+75RKXP_1,75RKXP,1,cats_dogs,63,77,I choose cats,cats
+75RKXP_2,75RKXP,2,pineapple_pizza,81,77,I like pineapple on pizza,likes
+75RKXP_3,75RKXP,3,hotdog_sandwich,63,62,A hot dog is not a sandwich,no
+75RKXP_4,75RKXP,4,coke_pepsi,0,0,I choose Coke,Coke
+75RKXP_5,75RKXP,5,bluecheese,73,80,I do not like blue cheese,dislikes
+75RKXP_6,75RKXP,6,water_wet,82,82,Water is not wet,no
+75RKXP_7,75RKXP,7,autumn_spring,80,74,I choose autumn,autumn
+75RKXP_8,75RKXP,8,spicyfood,89,85,I like spicy food,likes
+75RKXP_9,75RKXP,9,coffeeshop,64,63,Cafe Coralie (downtown),Cafe Coralie
+79FVTG_2,79FVTG,2,pineapple_pizza,71,68,I do not like pineapple on pizza,dislikes
+79FVTG_3,79FVTG,3,hotdog_sandwich,79,50,A hot dog is not a sandwich,no
+79FVTG_4,79FVTG,4,coke_pepsi,71,53,I choose Coke,Coke
+79FVTG_5,79FVTG,5,bluecheese,100,87,I do not like blue cheese,dislikes
+79FVTG_6,79FVTG,6,water_wet,4,25,Water is wet,yes
+79FVTG_7,79FVTG,7,autumn_spring,84,71,I choose spring,spring
+79FVTG_8,79FVTG,8,spicyfood,100,97,I like spicy food,likes
+79FVTG_9,79FVTG,9,coffeeshop,82,80,Colectivo,Colectivo
+7TH9AL_1,7TH9AL,1,cats_dogs,93,50,I choose dogs,dogs
+7TH9AL_2,7TH9AL,2,pineapple_pizza,50,18,I like pineapple on pizza,likes
+7TH9AL_3,7TH9AL,3,hotdog_sandwich,33,28,A hot dog is not a sandwich,no
+7TH9AL_4,7TH9AL,4,coke_pepsi,100,77,I choose Coke,Coke
+7TH9AL_5,7TH9AL,5,bluecheese,41,37,I like blue cheese,likes
+7TH9AL_6,7TH9AL,6,water_wet,50,50,Water is wet,yes
+7TH9AL_7,7TH9AL,7,autumn_spring,88,90,I choose autumn,autumn
+7TH9AL_8,7TH9AL,8,spicyfood,80,79,I like spicy food,likes
+7TH9AL_9,7TH9AL,9,coffeeshop,96,94,Coffee Lab,Coffee Lab
+8GVXNG_1,8GVXNG,1,cats_dogs,100,77,I choose dogs,dogs
+8GVXNG_2,8GVXNG,2,pineapple_pizza,65,53,I do not like pineapple on pizza,dislikes
+8GVXNG_3,8GVXNG,3,hotdog_sandwich,46,44,A hot dog is not a sandwich,no
+8GVXNG_5,8GVXNG,5,bluecheese,100,85,I do not like blue cheese,dislikes
+8GVXNG_6,8GVXNG,6,water_wet,64,64,Water is not wet,no
+8GVXNG_7,8GVXNG,7,autumn_spring,63,58,I choose autumn,autumn
+8GVXNG_8,8GVXNG,8,spicyfood,97,79,I like spicy food,likes
+8GVXNG_9,8GVXNG,9,coffeeshop,60,54,Collectivo,Colectivo
+8UHRJZ_1,8UHRJZ,1,cats_dogs,100,50,I choose dogs,dogs
+8UHRJZ_2,8UHRJZ,2,pineapple_pizza,100,33,I like pineapple on pizza,likes
+8UHRJZ_3,8UHRJZ,3,hotdog_sandwich,50,30,A hot dog is not a sandwich,no
+8UHRJZ_4,8UHRJZ,4,coke_pepsi,0,28,I choose Coke,Coke
+8UHRJZ_5,8UHRJZ,5,bluecheese,50,43,I do not like blue cheese,dislikes
+8UHRJZ_6,8UHRJZ,6,water_wet,62,50,Water is not wet,no
+8UHRJZ_7,8UHRJZ,7,autumn_spring,100,100,I choose autumn,autumn
+8UHRJZ_8,8UHRJZ,8,spicyfood,58,41,I like spicy food,likes
+8UHRJZ_9,8UHRJZ,9,coffeeshop,100,69,Newport,Newport
+9M4R9F_1,9M4R9F,1,cats_dogs,35,25,I choose cats,cats
+9M4R9F_2,9M4R9F,2,pineapple_pizza,45,57,I like pineapple on pizza,likes
+9M4R9F_4,9M4R9F,4,coke_pepsi,0,0,I choose Coke,Coke
+9M4R9F_5,9M4R9F,5,bluecheese,12,3,I do not like blue cheese,dislikes
+9M4R9F_6,9M4R9F,6,water_wet,58,64,Water is wet,yes
+9M4R9F_7,9M4R9F,7,autumn_spring,86,76,I choose autumn,autumn
+9R4JMQ_1,9R4JMQ,1,cats_dogs,100,65,I choose cats,cats
+9R4JMQ_2,9R4JMQ,2,pineapple_pizza,49,50,I do not like pineapple on pizza,dislikes
+9R4JMQ_3,9R4JMQ,3,hotdog_sandwich,33,39,A hot dog is a sandwich,yes
+9R4JMQ_4,9R4JMQ,4,coke_pepsi,66,54,I choose Coke,Coke
+9R4JMQ_5,9R4JMQ,5,bluecheese,63,37,I do not like blue cheese,dislikes
+9R4JMQ_6,9R4JMQ,6,water_wet,43,28,Water is wet,yes
+9R4JMQ_7,9R4JMQ,7,autumn_spring,84,62,I choose autumn,autumn
+9R4JMQ_8,9R4JMQ,8,spicyfood,78,71,I like spicy food,likes
+9R4JMQ_9,9R4JMQ,9,coffeeshop,66,43,Patiserrie Coralie,Cafe Coralie
+AH4N2E_1,AH4N2E,1,cats_dogs,96,69,I choose cats,cats
+AH4N2E_2,AH4N2E,2,pineapple_pizza,71,55,I do not like pineapple on pizza,dislikes
+AH4N2E_3,AH4N2E,3,hotdog_sandwich,62,62,A hot dog is a sandwich,yes
+AH4N2E_4,AH4N2E,4,coke_pepsi,52,46,I choose Coke,Coke
+AH4N2E_5,AH4N2E,5,bluecheese,45,45,I do not like blue cheese,dislikes
+AH4N2E_6,AH4N2E,6,water_wet,69,61,Water is wet,yes
+AH4N2E_7,AH4N2E,7,autumn_spring,90,81,I choose autumn,autumn
+AH4N2E_8,AH4N2E,8,spicyfood,100,95,I do not like spicy food,dislikes
+AH4N2E_9,AH4N2E,9,coffeeshop,19,30,Cafe Coralie,Cafe Coralie
+ANYN5N_1,ANYN5N,1,cats_dogs,92,35,I choose dogs,dogs
+ANYN5N_2,ANYN5N,2,pineapple_pizza,99,61,I like pineapple on pizza,likes
+ANYN5N_3,ANYN5N,3,hotdog_sandwich,45,7,A hot dog is not a sandwich,no
+ANYN5N_4,ANYN5N,4,coke_pepsi,66,67,I choose Coke,Coke
+ANYN5N_5,ANYN5N,5,bluecheese,30,26,I do not like blue cheese,dislikes
+ANYN5N_6,ANYN5N,6,water_wet,54,34,Water is wet,yes
+ANYN5N_7,ANYN5N,7,autumn_spring,98,98,I choose autumn,autumn
+ANYN5N_8,ANYN5N,8,spicyfood,97,80,I do not like spicy food,dislikes
+ANYN5N_9,ANYN5N,9,coffeeshop,95,91,Backlot Coffee,other
+ASU387_1,ASU387,1,cats_dogs,52,37,I choose dogs,dogs
+ASU387_2,ASU387,2,pineapple_pizza,63,69,I do not like pineapple on pizza,dislikes
+ASU387_3,ASU387,3,hotdog_sandwich,21,10,A hot dog is not a sandwich,no
+ASU387_4,ASU387,4,coke_pepsi,75,77,I choose Coke,Coke
+ASU387_5,ASU387,5,bluecheese,64,65,I do not like blue cheese,dislikes
+ASU387_7,ASU387,7,autumn_spring,91,89,I choose autumn,autumn
+ASU387_8,ASU387,8,spicyfood,26,12,I like spicy food,likes
+ASU387_9,ASU387,9,coffeeshop,73,49,Collectivo,Colectivo
+BJJDCU_1,BJJDCU,1,cats_dogs,93,72,I choose dogs,dogs
+BJJDCU_2,BJJDCU,2,pineapple_pizza,66,65,I do not like pineapple on pizza,dislikes
+BJJDCU_3,BJJDCU,3,hotdog_sandwich,35,45,A hot dog is a sandwich,yes
+BJJDCU_4,BJJDCU,4,coke_pepsi,61,54,I choose Coke,Coke
+BJJDCU_5,BJJDCU,5,bluecheese,67,74,I like blue cheese,likes
+BJJDCU_6,BJJDCU,6,water_wet,79,71,Water is not wet,no
+BJJDCU_7,BJJDCU,7,autumn_spring,84,72,I choose autumn,autumn
+BJJDCU_8,BJJDCU,8,spicyfood,90,85,I like spicy food,likes
+BJJDCU_9,BJJDCU,9,coffeeshop,89,88,Coffee lab,Coffee Lab
+BP8MWN_1,BP8MWN,1,cats_dogs,77,65,I choose cats,cats
+BP8MWN_3,BP8MWN,3,hotdog_sandwich,80,91,A hot dog is a sandwich,yes
+BP8MWN_4,BP8MWN,4,coke_pepsi,4,7,I choose Coke,Coke
+BP8MWN_5,BP8MWN,5,bluecheese,93,72,I do not like blue cheese,dislikes
+BP8MWN_6,BP8MWN,6,water_wet,93,89,Water is wet,yes
+BP8MWN_7,BP8MWN,7,autumn_spring,68,49,I choose autumn,autumn
+BP8MWN_8,BP8MWN,8,spicyfood,92,80,I like spicy food,likes
+BP8MWN_9,BP8MWN,9,coffeeshop,9,0,Starbucks,Starbucks
+CVB4FV_1,CVB4FV,1,cats_dogs,50,50,I choose dogs,dogs
+CVB4FV_2,CVB4FV,2,pineapple_pizza,91,87,I do not like pineapple on pizza,dislikes
+CVB4FV_3,CVB4FV,3,hotdog_sandwich,73,76,A hot dog is a sandwich,yes
+CVB4FV_4,CVB4FV,4,coke_pepsi,32,29,I choose Coke,Coke
+CVB4FV_5,CVB4FV,5,bluecheese,74,65,I do not like blue cheese,dislikes
+CVB4FV_6,CVB4FV,6,water_wet,68,40,Water is wet,yes
+CVB4FV_7,CVB4FV,7,autumn_spring,93,77,I choose autumn,autumn
+CVB4FV_8,CVB4FV,8,spicyfood,78,76,I like spicy food,likes
+CVB4FV_9,CVB4FV,9,coffeeshop,51,32,Newport,Newport
+CVUKN6_1,CVUKN6,1,cats_dogs,50,50,I choose dogs,dogs
+CVUKN6_2,CVUKN6,2,pineapple_pizza,79,79,I like pineapple on pizza,likes
+CVUKN6_3,CVUKN6,3,hotdog_sandwich,65,67,A hot dog is not a sandwich,no
+CVUKN6_4,CVUKN6,4,coke_pepsi,36,19,I choose Pepsi,Pepsi
+CVUKN6_5,CVUKN6,5,bluecheese,61,56,I like blue cheese,likes
+CVUKN6_6,CVUKN6,6,water_wet,68,83,Water is wet,yes
+CVUKN6_7,CVUKN6,7,autumn_spring,34,19,I choose autumn,autumn
+CVUKN6_8,CVUKN6,8,spicyfood,67,72,I like spicy food,likes
+DFA99M_1,DFA99M,1,cats_dogs,33,16,I choose cats,cats
+DFA99M_3,DFA99M,3,hotdog_sandwich,100,91,A hot dog is a sandwich,yes
+DFA99M_4,DFA99M,4,coke_pepsi,0,0,I choose Coke,Coke
+DFA99M_6,DFA99M,6,water_wet,81,61,Water is wet,yes
+DFA99M_7,DFA99M,7,autumn_spring,83,67,I choose spring,spring
+DFA99M_8,DFA99M,8,spicyfood,100,65,I like spicy food,likes
+DFA99M_9,DFA99M,9,coffeeshop,75,84,Colectivo,Colectivo
+DLXXGP_1,DLXXGP,1,cats_dogs,50,50,I choose dogs,dogs
+DLXXGP_2,DLXXGP,2,pineapple_pizza,91,91,I like pineapple on pizza,likes
+DLXXGP_3,DLXXGP,3,hotdog_sandwich,93,92,A hot dog is not a sandwich,no
+DLXXGP_4,DLXXGP,4,coke_pepsi,92,92,I choose Coke,Coke
+DLXXGP_5,DLXXGP,5,bluecheese,95,50,I like blue cheese,likes
+DLXXGP_6,DLXXGP,6,water_wet,92,92,Water is not wet,no
+DLXXGP_7,DLXXGP,7,autumn_spring,94,91,I choose autumn,autumn
+DLXXGP_8,DLXXGP,8,spicyfood,92,50,I like spicy food,likes
+DLXXGP_9,DLXXGP,9,coffeeshop,50,50,Reprise Roasters,other
+F4JZ62_1,F4JZ62,1,cats_dogs,21,73,I choose dogs,dogs
+F4JZ62_2,F4JZ62,2,pineapple_pizza,66,66,I like pineapple on pizza,likes
+F4JZ62_3,F4JZ62,3,hotdog_sandwich,74,76,A hot dog is not a sandwich,no
+F4JZ62_4,F4JZ62,4,coke_pepsi,53,53,I choose Coke,Coke
+F4JZ62_5,F4JZ62,5,bluecheese,65,65,I like blue cheese,likes
+F4JZ62_6,F4JZ62,6,water_wet,60,59,Water is wet,yes
+F4JZ62_7,F4JZ62,7,autumn_spring,79,85,I choose autumn,autumn
+F4JZ62_8,F4JZ62,8,spicyfood,72,75,I like spicy food,likes
+F4JZ62_9,F4JZ62,9,coffeeshop,72,73,Colectivo,Colectivo
+F96H6T_1,F96H6T,1,cats_dogs,71,66,I choose dogs,dogs
+F96H6T_2,F96H6T,2,pineapple_pizza,91,74,I do not like pineapple on pizza,dislikes
+F96H6T_3,F96H6T,3,hotdog_sandwich,47,29,A hot dog is a sandwich,yes
+F96H6T_4,F96H6T,4,coke_pepsi,73,48,I choose Coke,Coke
+F96H6T_5,F96H6T,5,bluecheese,100,91,I do not like blue cheese,dislikes
+F96H6T_6,F96H6T,6,water_wet,31,14,Water is not wet,no
+F96H6T_7,F96H6T,7,autumn_spring,80,72,I choose spring,spring
+F96H6T_8,F96H6T,8,spicyfood,88,75,I do not like spicy food,dislikes
+F96H6T_9,F96H6T,9,coffeeshop,70,47,Starbucks,Starbucks
+FPXEVV_1,FPXEVV,1,cats_dogs,59,35,I choose cats,cats
+FPXEVV_2,FPXEVV,2,pineapple_pizza,12,13,I do not like pineapple on pizza,dislikes
+FPXEVV_3,FPXEVV,3,hotdog_sandwich,41,42,A hot dog is not a sandwich,no
+FPXEVV_4,FPXEVV,4,coke_pepsi,10,8,I choose Coke,Coke
+FPXEVV_5,FPXEVV,5,bluecheese,64,67,I do not like blue cheese,dislikes
+FPXEVV_6,FPXEVV,6,water_wet,60,68,Water is not wet,no
+FPXEVV_7,FPXEVV,7,autumn_spring,80,80,I choose autumn,autumn
+FPXEVV_8,FPXEVV,8,spicyfood,83,79,I like spicy food,likes
+FPXEVV_9,FPXEVV,9,coffeeshop,63,69,Moge Tea,other
+G46RFM_1,G46RFM,1,cats_dogs,99,74,I choose dogs,dogs
+G46RFM_3,G46RFM,3,hotdog_sandwich,60,54,A hot dog is not a sandwich,no
+G46RFM_4,G46RFM,4,coke_pepsi,24,12,I choose Coke,Coke
+G46RFM_5,G46RFM,5,bluecheese,6,4,I like blue cheese,likes
+G46RFM_6,G46RFM,6,water_wet,90,82,Water is wet,yes
+G46RFM_7,G46RFM,7,autumn_spring,95,93,I choose autumn,autumn
+G46RFM_8,G46RFM,8,spicyfood,26,24,I like spicy food,likes
+G46RFM_9,G46RFM,9,coffeeshop,91,77,Newport,Newport
+GJZ3DG_1,GJZ3DG,1,cats_dogs,91,70,I choose cats,cats
+GJZ3DG_3,GJZ3DG,3,hotdog_sandwich,93,91,A hot dog is a sandwich,yes
+GJZ3DG_4,GJZ3DG,4,coke_pepsi,69,33,I choose Coke,Coke
+GJZ3DG_5,GJZ3DG,5,bluecheese,91,68,I do not like blue cheese,dislikes
+GJZ3DG_6,GJZ3DG,6,water_wet,38,32,Water is not wet,no
+GJZ3DG_7,GJZ3DG,7,autumn_spring,84,95,I choose spring,spring
+GJZ3DG_8,GJZ3DG,8,spicyfood,63,28,I like spicy food,likes
+GJZ3DG_9,GJZ3DG,9,coffeeshop,93,64,Blue Moose,other
+GQVTAY_1,GQVTAY,1,cats_dogs,93,63,I choose cats,cats
+GQVTAY_2,GQVTAY,2,pineapple_pizza,92,51,I like pineapple on pizza,likes
+GQVTAY_3,GQVTAY,3,hotdog_sandwich,92,66,A hot dog is not a sandwich,no
+GQVTAY_4,GQVTAY,4,coke_pepsi,70,38,I choose Coke,Coke
+GQVTAY_5,GQVTAY,5,bluecheese,91,57,I do not like blue cheese,dislikes
+GQVTAY_6,GQVTAY,6,water_wet,49,54,Water is wet,yes
+GQVTAY_7,GQVTAY,7,autumn_spring,93,70,I choose autumn,autumn
+GQVTAY_8,GQVTAY,8,spicyfood,90,45,I like spicy food,likes
+GQVTAY_9,GQVTAY,9,coffeeshop,86,71,Starbucks,Starbucks
+GQZPPL_1,GQZPPL,1,cats_dogs,71,78,I choose cats,cats
+GQZPPL_2,GQZPPL,2,pineapple_pizza,83,69,I do not like pineapple on pizza,dislikes
+GQZPPL_3,GQZPPL,3,hotdog_sandwich,51,50,A hot dog is not a sandwich,no
+GQZPPL_4,GQZPPL,4,coke_pepsi,67,74,I choose Coke,Coke
+GQZPPL_5,GQZPPL,5,bluecheese,93,93,I do not like blue cheese,dislikes
+GQZPPL_6,GQZPPL,6,water_wet,73,73,Water is wet,yes
+GQZPPL_7,GQZPPL,7,autumn_spring,73,64,I choose autumn,autumn
+GQZPPL_8,GQZPPL,8,spicyfood,66,69,I like spicy food,likes
+GQZPPL_9,GQZPPL,9,coffeeshop,79,71,Colectivo,Colectivo
+HJVQGN_2,HJVQGN,2,pineapple_pizza,100,100,I do not like pineapple on pizza,dislikes
+HJVQGN_3,HJVQGN,3,hotdog_sandwich,100,70,A hot dog is a sandwich,yes
+HJVQGN_6,HJVQGN,6,water_wet,100,100,Water is not wet,no
+HJVQGN_7,HJVQGN,7,autumn_spring,50,31,I choose spring,spring
+HJVQGN_8,HJVQGN,8,spicyfood,73,50,I like spicy food,likes
+HU9B49_2,HU9B49,2,pineapple_pizza,100,100,I do not like pineapple on pizza,dislikes
+HU9B49_3,HU9B49,3,hotdog_sandwich,100,100,A hot dog is a sandwich,yes
+HU9B49_4,HU9B49,4,coke_pepsi,17,16,I choose Coke,Coke
+HU9B49_5,HU9B49,5,bluecheese,91,89,I like blue cheese,likes
+HU9B49_6,HU9B49,6,water_wet,100,100,Water is wet,yes
+HU9B49_8,HU9B49,8,spicyfood,80,84,I do not like spicy food,dislikes
+JLCAY3_1,JLCAY3,1,cats_dogs,65,67,I choose dogs,dogs
+JLCAY3_2,JLCAY3,2,pineapple_pizza,73,67,I like pineapple on pizza,likes
+JLCAY3_3,JLCAY3,3,hotdog_sandwich,64,56,A hot dog is a sandwich,yes
+JLCAY3_4,JLCAY3,4,coke_pepsi,40,38,I choose Coke,Coke
+JLCAY3_5,JLCAY3,5,bluecheese,55,40,I do not like blue cheese,dislikes
+JLCAY3_6,JLCAY3,6,water_wet,41,40,Water is not wet,no
+JLCAY3_7,JLCAY3,7,autumn_spring,77,72,I choose autumn,autumn
+JLCAY3_8,JLCAY3,8,spicyfood,57,42,I do not like spicy food,dislikes
+JLCAY3_9,JLCAY3,9,coffeeshop,31,31,Colectivo ,Colectivo
+JR8N73_1,JR8N73,1,cats_dogs,57,19,I choose cats,cats
+JR8N73_2,JR8N73,2,pineapple_pizza,66,70,I do not like pineapple on pizza,dislikes
+JR8N73_3,JR8N73,3,hotdog_sandwich,27,31,A hot dog is not a sandwich,no
+JR8N73_4,JR8N73,4,coke_pepsi,71,77,I choose Coke,Coke
+JR8N73_5,JR8N73,5,bluecheese,94,72,I do not like blue cheese,dislikes
+JR8N73_6,JR8N73,6,water_wet,69,32,Water is not wet,no
+JR8N73_7,JR8N73,7,autumn_spring,51,69,I choose autumn,autumn
+JR8N73_8,JR8N73,8,spicyfood,61,76,I like spicy food,likes
+JR8N73_9,JR8N73,9,coffeeshop,64,29,Coffee Lab,Coffee Lab
+L3Z63E_1,L3Z63E,1,cats_dogs,31,26,I choose cats,cats
+L3Z63E_2,L3Z63E,2,pineapple_pizza,68,62,I do not like pineapple on pizza,dislikes
+L3Z63E_3,L3Z63E,3,hotdog_sandwich,40,35,A hot dog is not a sandwich,no
+L3Z63E_4,L3Z63E,4,coke_pepsi,4,0,I choose Coke,Coke
+L3Z63E_5,L3Z63E,5,bluecheese,11,6,I do not like blue cheese,dislikes
+L3Z63E_6,L3Z63E,6,water_wet,39,49,Water is not wet,no
+L3Z63E_7,L3Z63E,7,autumn_spring,95,79,I choose autumn,autumn
+L3Z63E_8,L3Z63E,8,spicyfood,72,61,I like spicy food,likes
+L3Z63E_9,L3Z63E,9,coffeeshop,31,24,Starbucks,Starbucks
+LCEAJ7_1,LCEAJ7,1,cats_dogs,70,59,I choose dogs,dogs
+LCEAJ7_2,LCEAJ7,2,pineapple_pizza,74,58,I do not like pineapple on pizza,dislikes
+LCEAJ7_3,LCEAJ7,3,hotdog_sandwich,82,64,A hot dog is a sandwich,yes
+LCEAJ7_4,LCEAJ7,4,coke_pepsi,42,19,I choose Coke,Coke
+LCEAJ7_5,LCEAJ7,5,bluecheese,82,63,I do not like blue cheese,dislikes
+LCEAJ7_6,LCEAJ7,6,water_wet,29,11,Water is not wet,no
+LCEAJ7_7,LCEAJ7,7,autumn_spring,81,70,I choose autumn,autumn
+LCEAJ7_8,LCEAJ7,8,spicyfood,60,39,I like spicy food,likes
+LCEAJ7_9,LCEAJ7,9,coffeeshop,84,43,Peets,Peets
+M3BCKG_1,M3BCKG,1,cats_dogs,96,54,I choose cats,cats
+M3BCKG_2,M3BCKG,2,pineapple_pizza,50,64,I like pineapple on pizza,likes
+M3BCKG_3,M3BCKG,3,hotdog_sandwich,61,59,A hot dog is not a sandwich,no
+M3BCKG_4,M3BCKG,4,coke_pepsi,66,56,I choose Coke,Coke
+M3BCKG_5,M3BCKG,5,bluecheese,92,80,I like blue cheese,likes
+M3BCKG_6,M3BCKG,6,water_wet,69,77,Water is not wet,no
+M3BCKG_7,M3BCKG,7,autumn_spring,48,62,I choose spring,spring
+M3BCKG_8,M3BCKG,8,spicyfood,81,87,I like spicy food,likes
+M3BCKG_9,M3BCKG,9,coffeeshop,82,84,Colectivo,Colectivo
+MQFGUA_1,MQFGUA,1,cats_dogs,93,76,I choose dogs,dogs
+MQFGUA_2,MQFGUA,2,pineapple_pizza,94,93,I do not like pineapple on pizza,dislikes
+MQFGUA_4,MQFGUA,4,coke_pepsi,91,71,I choose Coke,Coke
+MQFGUA_5,MQFGUA,5,bluecheese,91,50,I do not like blue cheese,dislikes
+MQFGUA_6,MQFGUA,6,water_wet,49,27,Water is not wet,no
+MQFGUA_7,MQFGUA,7,autumn_spring,92,93,I choose autumn,autumn
+MQFGUA_8,MQFGUA,8,spicyfood,92,50,I like spicy food,likes
+NPEK3R_1,NPEK3R,1,cats_dogs,50,72,I choose cats,cats
+NPEK3R_2,NPEK3R,2,pineapple_pizza,45,19,I like pineapple on pizza,likes
+NPEK3R_3,NPEK3R,3,hotdog_sandwich,60,92,A hot dog is not a sandwich,no
+NPEK3R_4,NPEK3R,4,coke_pepsi,72,73,I choose Pepsi,Pepsi
+NPEK3R_5,NPEK3R,5,bluecheese,50,50,I do not like blue cheese,dislikes
+NPEK3R_6,NPEK3R,6,water_wet,87,94,Water is wet,yes
+NPEK3R_7,NPEK3R,7,autumn_spring,83,84,I choose spring,spring
+NPEK3R_8,NPEK3R,8,spicyfood,69,50,I do not like spicy food,dislikes
+NPMF9M_1,NPMF9M,1,cats_dogs,50,72,I choose cats,cats
+NPMF9M_2,NPMF9M,2,pineapple_pizza,51,50,I like pineapple on pizza,likes
+NPMF9M_3,NPMF9M,3,hotdog_sandwich,71,70,A hot dog is a sandwich,yes
+NPMF9M_4,NPMF9M,4,coke_pepsi,30,30,I choose Coke,Coke
+NPMF9M_5,NPMF9M,5,bluecheese,49,34,I do not like blue cheese,dislikes
+NPMF9M_6,NPMF9M,6,water_wet,72,70,Water is wet,yes
+NPMF9M_7,NPMF9M,7,autumn_spring,87,75,I choose autumn,autumn
+NPMF9M_8,NPMF9M,8,spicyfood,71,69,I like spicy food,likes
+NPMF9M_9,NPMF9M,9,coffeeshop,14,11,Peets,Peets
+NXYBWB_1,NXYBWB,1,cats_dogs,71,58,I choose dogs,dogs
+NXYBWB_2,NXYBWB,2,pineapple_pizza,75,40,I like pineapple on pizza,likes
+NXYBWB_3,NXYBWB,3,hotdog_sandwich,90,59,A hot dog is a sandwich,yes
+NXYBWB_4,NXYBWB,4,coke_pepsi,98,61,I choose Coke,Coke
+NXYBWB_5,NXYBWB,5,bluecheese,63,59,I like blue cheese,likes
+NXYBWB_6,NXYBWB,6,water_wet,69,62,Water is wet,yes
+NXYBWB_7,NXYBWB,7,autumn_spring,56,55,I choose autumn,autumn
+NXYBWB_8,NXYBWB,8,spicyfood,85,61,I like spicy food,likes
+NXYBWB_9,NXYBWB,9,coffeeshop,69,63,Colectivo,Colectivo
+PA9N7U_1,PA9N7U,1,cats_dogs,59,40,I choose dogs,dogs
+PA9N7U_2,PA9N7U,2,pineapple_pizza,60,59,I do not like pineapple on pizza,dislikes
+PA9N7U_3,PA9N7U,3,hotdog_sandwich,65,63,A hot dog is not a sandwich,no
+PA9N7U_4,PA9N7U,4,coke_pepsi,61,55,I choose Coke,Coke
+PA9N7U_5,PA9N7U,5,bluecheese,59,57,I do not like blue cheese,dislikes
+PA9N7U_6,PA9N7U,6,water_wet,65,70,Water is wet,yes
+PA9N7U_7,PA9N7U,7,autumn_spring,72,91,I choose autumn,autumn
+PA9N7U_8,PA9N7U,8,spicyfood,71,86,I do not like spicy food,dislikes
+PA9N7U_9,PA9N7U,9,coffeeshop,39,38,Collectivo ,Colectivo
+PAKECS_2,PAKECS,2,pineapple_pizza,87,85,I do not like pineapple on pizza,dislikes
+PAKECS_3,PAKECS,3,hotdog_sandwich,68,61,A hot dog is not a sandwich,no
+PAKECS_5,PAKECS,5,bluecheese,63,52,I like blue cheese,likes
+PAKECS_6,PAKECS,6,water_wet,71,59,Water is not wet,no
+PAKECS_7,PAKECS,7,autumn_spring,67,69,I choose spring,spring
+PAKECS_8,PAKECS,8,spicyfood,92,81,I like spicy food,likes
+PAKECS_9,PAKECS,9,coffeeshop,94,93,Evanston Pour,other
+QGL7HY_1,QGL7HY,1,cats_dogs,53,50,I choose dogs,dogs
+QGL7HY_2,QGL7HY,2,pineapple_pizza,65,75,I like pineapple on pizza,likes
+QGL7HY_3,QGL7HY,3,hotdog_sandwich,35,43,A hot dog is a sandwich,yes
+QGL7HY_4,QGL7HY,4,coke_pepsi,38,31,I choose Coke,Coke
+QGL7HY_5,QGL7HY,5,bluecheese,83,82,I like blue cheese,likes
+QGL7HY_6,QGL7HY,6,water_wet,100,84,Water is wet,yes
+QGL7HY_7,QGL7HY,7,autumn_spring,79,73,I choose autumn,autumn
+QGL7HY_8,QGL7HY,8,spicyfood,82,85,I like spicy food,likes
+RCUQV8_1,RCUQV8,1,cats_dogs,70,61,I choose dogs,dogs
+RCUQV8_2,RCUQV8,2,pineapple_pizza,100,89,I like pineapple on pizza,likes
+RCUQV8_3,RCUQV8,3,hotdog_sandwich,30,68,A hot dog is not a sandwich,no
+RCUQV8_4,RCUQV8,4,coke_pepsi,13,22,I choose Coke,Coke
+RCUQV8_5,RCUQV8,5,bluecheese,59,30,I do not like blue cheese,dislikes
+RCUQV8_6,RCUQV8,6,water_wet,34,8,Water is not wet,no
+RCUQV8_7,RCUQV8,7,autumn_spring,68,40,I choose autumn,autumn
+RCUQV8_8,RCUQV8,8,spicyfood,75,70,I do not like spicy food,dislikes
+RDKB6C_1,RDKB6C,1,cats_dogs,66,49,I choose dogs,dogs
+RDKB6C_2,RDKB6C,2,pineapple_pizza,76,43,I do not like pineapple on pizza,dislikes
+RDKB6C_3,RDKB6C,3,hotdog_sandwich,60,48,A hot dog is not a sandwich,no
+RDKB6C_4,RDKB6C,4,coke_pepsi,64,62,I choose Coke,Coke
+RDKB6C_5,RDKB6C,5,bluecheese,71,68,I do not like blue cheese,dislikes
+RDKB6C_6,RDKB6C,6,water_wet,37,31,Water is wet,yes
+RDKB6C_7,RDKB6C,7,autumn_spring,71,71,I choose autumn,autumn
+RDKB6C_8,RDKB6C,8,spicyfood,80,70,I like spicy food,likes
+SER453_1,SER453,1,cats_dogs,91,72,I choose dogs,dogs
+SER453_2,SER453,2,pineapple_pizza,71,70,I do not like pineapple on pizza,dislikes
+SER453_3,SER453,3,hotdog_sandwich,82,73,A hot dog is not a sandwich,no
+SER453_4,SER453,4,coke_pepsi,100,100,I choose Coke,Coke
+SER453_5,SER453,5,bluecheese,100,100,I do not like blue cheese,dislikes
+SER453_6,SER453,6,water_wet,35,19,Water is not wet,no
+SER453_7,SER453,7,autumn_spring,100,100,I choose autumn,autumn
+SER453_8,SER453,8,spicyfood,100,89,I like spicy food,likes
+SER453_9,SER453,9,coffeeshop,100,100,Colectivo ,Colectivo
+TH7TUS_1,TH7TUS,1,cats_dogs,90,70,I choose dogs,dogs
+TH7TUS_2,TH7TUS,2,pineapple_pizza,34,34,I like pineapple on pizza,likes
+TH7TUS_3,TH7TUS,3,hotdog_sandwich,31,31,A hot dog is a sandwich,yes
+TH7TUS_4,TH7TUS,4,coke_pepsi,70,70,I choose Coke,Coke
+TH7TUS_5,TH7TUS,5,bluecheese,83,66,I do not like blue cheese,dislikes
+TH7TUS_6,TH7TUS,6,water_wet,30,33,Water is not wet,no
+TH7TUS_7,TH7TUS,7,autumn_spring,92,88,I choose autumn,autumn
+TH7TUS_8,TH7TUS,8,spicyfood,86,29,I like spicy food,likes
+TH7TUS_9,TH7TUS,9,coffeeshop,41,64,Coffee lab,Coffee Lab
+TWDMAY_1,TWDMAY,1,cats_dogs,25,13,I choose cats,cats
+TWDMAY_4,TWDMAY,4,coke_pepsi,0,0,I choose Coke,Coke
+TWDMAY_5,TWDMAY,5,bluecheese,100,52,I like blue cheese,likes
+TWDMAY_6,TWDMAY,6,water_wet,50,32,Water is not wet,no
+TWDMAY_7,TWDMAY,7,autumn_spring,100,100,I choose spring,spring
+TWDMAY_8,TWDMAY,8,spicyfood,72,47,I like spicy food,likes
+TWDMAY_9,TWDMAY,9,coffeeshop,89,100,Coffee Lab,Coffee Lab
+VSZX48_1,VSZX48,1,cats_dogs,93,89,I choose cats,cats
+VSZX48_2,VSZX48,2,pineapple_pizza,90,88,I like pineapple on pizza,likes
+VSZX48_3,VSZX48,3,hotdog_sandwich,53,50,A hot dog is not a sandwich,no
+VSZX48_4,VSZX48,4,coke_pepsi,90,88,I choose Coke,Coke
+VSZX48_6,VSZX48,6,water_wet,91,51,Water is not wet,no
+VSZX48_8,VSZX48,8,spicyfood,91,89,I like spicy food,likes
+VSZX48_9,VSZX48,9,coffeeshop,89,89,Rogers Park Taproom,other
+WX86H9_2,WX86H9,2,pineapple_pizza,34,35,I do not like pineapple on pizza,dislikes
+WX86H9_3,WX86H9,3,hotdog_sandwich,41,43,A hot dog is not a sandwich,no
+WX86H9_4,WX86H9,4,coke_pepsi,21,23,I choose Coke,Coke
+WX86H9_5,WX86H9,5,bluecheese,61,60,I like blue cheese,likes
+WX86H9_6,WX86H9,6,water_wet,44,44,Water is wet,yes
+WX86H9_7,WX86H9,7,autumn_spring,66,66,I choose spring,spring
+WX86H9_8,WX86H9,8,spicyfood,56,54,I do not like spicy food,dislikes
+WX86H9_9,WX86H9,9,coffeeshop,57,57,The one on Noyes,Coffee Lab
+X3SEW3_2,X3SEW3,2,pineapple_pizza,50,38,I like pineapple on pizza,likes
+X3SEW3_3,X3SEW3,3,hotdog_sandwich,50,37,A hot dog is a sandwich,yes
+X3SEW3_5,X3SEW3,5,bluecheese,0,0,I like blue cheese,likes
+X3SEW3_6,X3SEW3,6,water_wet,7,9,Water is not wet,no
+X3SEW3_7,X3SEW3,7,autumn_spring,100,65,I choose spring,spring
+X3SEW3_8,X3SEW3,8,spicyfood,59,59,I like spicy food,likes
+X8DPXC_1,X8DPXC,1,cats_dogs,69,39,I choose dogs,dogs
+X8DPXC_2,X8DPXC,2,pineapple_pizza,100,73,I like pineapple on pizza,likes
+X8DPXC_3,X8DPXC,3,hotdog_sandwich,96,86,A hot dog is not a sandwich,no
+X8DPXC_4,X8DPXC,4,coke_pepsi,13,20,I choose Coke,Coke
+X8DPXC_6,X8DPXC,6,water_wet,78,94,Water is wet,yes
+X8DPXC_7,X8DPXC,7,autumn_spring,63,49,I choose spring,spring
+X8DPXC_8,X8DPXC,8,spicyfood,78,75,I like spicy food,likes
+X8DPXC_9,X8DPXC,9,coffeeshop,79,74,Bagel Art Cafe,other
+XQYHBD_1,XQYHBD,1,cats_dogs,83,92,I choose cats,cats
+XQYHBD_2,XQYHBD,2,pineapple_pizza,92,72,I like pineapple on pizza,likes
+XQYHBD_3,XQYHBD,3,hotdog_sandwich,93,95,A hot dog is not a sandwich,no
+XQYHBD_5,XQYHBD,5,bluecheese,97,96,I like blue cheese,likes
+XQYHBD_6,XQYHBD,6,water_wet,71,73,Water is not wet,no
+XQYHBD_7,XQYHBD,7,autumn_spring,86,90,I choose spring,spring
+XQYHBD_8,XQYHBD,8,spicyfood,87,85,I like spicy food,likes
+XQYHBD_9,XQYHBD,9,coffeeshop,93,95,Colectivo coffee,Colectivo
+Y392M9_1,Y392M9,1,cats_dogs,52,61,I choose dogs,dogs
+Y392M9_2,Y392M9,2,pineapple_pizza,37,40,I do not like pineapple on pizza,dislikes
+Y392M9_3,Y392M9,3,hotdog_sandwich,46,60,A hot dog is not a sandwich,no
+Y392M9_4,Y392M9,4,coke_pepsi,17,23,I choose Coke,Coke
+Y392M9_5,Y392M9,5,bluecheese,41,48,I do not like blue cheese,dislikes
+Y392M9_6,Y392M9,6,water_wet,53,57,Water is wet,yes
+Y392M9_7,Y392M9,7,autumn_spring,56,59,I choose autumn,autumn
+Y392M9_8,Y392M9,8,spicyfood,66,62,I do not like spicy food,dislikes
+Y392M9_9,Y392M9,9,coffeeshop,50,58,Newport,Newport
+Z5S4G6_1,Z5S4G6,1,cats_dogs,42,41,I choose cats,cats
+Z5S4G6_2,Z5S4G6,2,pineapple_pizza,73,72,I like pineapple on pizza,likes
+Z5S4G6_3,Z5S4G6,3,hotdog_sandwich,65,58,A hot dog is a sandwich,yes
+Z5S4G6_4,Z5S4G6,4,coke_pepsi,21,15,I choose Coke,Coke
+Z5S4G6_5,Z5S4G6,5,bluecheese,73,58,I do not like blue cheese,dislikes
+Z5S4G6_6,Z5S4G6,6,water_wet,90,83,Water is wet,yes
+Z5S4G6_7,Z5S4G6,7,autumn_spring,80,72,I choose spring,spring
+Z5S4G6_8,Z5S4G6,8,spicyfood,100,100,I like spicy food,likes
